@@ -1,0 +1,14 @@
+Step1: Create a new Maven projects
+Step2: Add maven dependencies CUCUMBER JAVA | Cucumber Junit | JUnit | Selenium Java
+Step3:Create a Folder Features under src/test/resources
+Step4: create a new feature file under features folder
+Step 5: Add contents to feature files:Feature:
+Scenario:
+Steps:
+ Scenario Outline:
+ Example
+ Tags
+ Comments
+Step6: Run the feature file:
+Step 7 - Add Step Definitions / Glue Code under sc/test/java package
+Step 8 - Create a Runner class
